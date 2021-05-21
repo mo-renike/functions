@@ -1,4 +1,4 @@
-//---------------------Task 1---------------------
+//---------------------Task 1-----------------------
 
 function convertFahrToCelsius(fahr) {
   // if it is not a number or it is an Array
@@ -29,7 +29,7 @@ convertFahrToCelsius([1, 2, 3]);
 //---------------------Task 2-------------------------
 
 function checkYuGiOh(n) {
-  let arr = [];
+  let arr = []; 
 
   if (!isNaN(n)) {
 
