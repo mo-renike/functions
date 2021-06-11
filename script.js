@@ -28,6 +28,7 @@ convertFahrToCelsius([1, 2, 3]);
 
 //---------------------Task 2-------------------------
 
+
 function checkYuGiOh(n) {
   let arr = []; 
 
